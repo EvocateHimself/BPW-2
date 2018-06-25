@@ -1,0 +1,20 @@
+newmtl initialShadingGroup
+Ns 100.000
+d 1.00000
+illum 2
+Kd 1.00000 1.00000 1.00000
+Ka 0.00000 0.00000 0.00000
+Ks 1.00000 1.00000 1.00000
+Ke 0.00000e+0 0.00000e+0 0.00000e+0
+map_Kd portalstairs_final_initialShadingGroup_color.png
+map_bump portalstairs_final_initialShadingGroup_nmap.png
+newmtl lambert6SG
+Ns 100.000
+d 1.00000
+illum 2
+Kd 1.00000 1.00000 1.00000
+Ka 0.00000 0.00000 0.00000
+Ks 1.00000 1.00000 1.00000
+Ke 0.00000e+0 0.00000e+0 0.00000e+0
+map_Kd portalstairs_final_lambert6SG_color.png
+map_bump portalstairs_final_lambert6SG_nmap.png
