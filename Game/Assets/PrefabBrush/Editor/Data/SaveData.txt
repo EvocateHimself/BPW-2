@@ -1,0 +1,275 @@
+Layer Selection: Default
+Brush Max Size: 10
+Brush Size: 6.62
+Fill Mode: True
+Fill Rate: 0.128
+
+Game Object: Assets/External Assets/Fantasy Forest Set/Prefabs/BirchTree-1.prefab
+Layer: Default
+Toggle: False
+Slider: 1
+Lock Orientation Toggle: False
+Random Rotation Toggle: True
+Random Rotation X: False
+Random Rotation Y: True
+Random Rotation Z: False
+Random Scale Toggle: True
+Random Scale Min: 0.7
+Random Scale Max: 1.25
+Fixed Rotation Toggle: False
+Fixed Rotation X: 0
+Fixed Rotation Y: 0
+Fixed Rotation Z: 0
+Depth: 0
+
+Game Object: Assets/External Assets/Fantasy Forest Set/Prefabs/BirchTree-2.prefab
+Layer: Default
+Toggle: False
+Slider: 1
+Lock Orientation Toggle: False
+Random Rotation Toggle: True
+Random Rotation X: False
+Random Rotation Y: True
+Random Rotation Z: False
+Random Scale Toggle: True
+Random Scale Min: 0.7
+Random Scale Max: 1.25
+Fixed Rotation Toggle: False
+Fixed Rotation X: 0
+Fixed Rotation Y: 0
+Fixed Rotation Z: 0
+Depth: 0
+
+Game Object: Assets/External Assets/Fantasy Forest Set/Prefabs/Bush-1.prefab
+Layer: Default
+Toggle: False
+Slider: 1
+Lock Orientation Toggle: False
+Random Rotation Toggle: True
+Random Rotation X: False
+Random Rotation Y: True
+Random Rotation Z: False
+Random Scale Toggle: True
+Random Scale Min: 0.7
+Random Scale Max: 1.25
+Fixed Rotation Toggle: False
+Fixed Rotation X: 0
+Fixed Rotation Y: 0
+Fixed Rotation Z: 0
+Depth: 0
+
+Game Object: Assets/External Assets/Fantasy Forest Set/Prefabs/Flower-1-Orange.prefab
+Layer: Default
+Toggle: False
+Slider: 1
+Lock Orientation Toggle: False
+Random Rotation Toggle: True
+Random Rotation X: False
+Random Rotation Y: True
+Random Rotation Z: False
+Random Scale Toggle: True
+Random Scale Min: 0.7
+Random Scale Max: 1.25
+Fixed Rotation Toggle: False
+Fixed Rotation X: 0
+Fixed Rotation Y: 0
+Fixed Rotation Z: 0
+Depth: 0
+
+Game Object: Assets/External Assets/Fantasy Forest Set/Prefabs/Flower-1-Violet.prefab
+Layer: Default
+Toggle: False
+Slider: 1
+Lock Orientation Toggle: False
+Random Rotation Toggle: True
+Random Rotation X: False
+Random Rotation Y: True
+Random Rotation Z: False
+Random Scale Toggle: True
+Random Scale Min: 0.7
+Random Scale Max: 1.25
+Fixed Rotation Toggle: False
+Fixed Rotation X: 0
+Fixed Rotation Y: 0
+Fixed Rotation Z: 0
+Depth: 0
+
+Game Object: Assets/External Assets/Fantasy Forest Set/Prefabs/Flower-1-Blue.prefab
+Layer: Default
+Toggle: False
+Slider: 1
+Lock Orientation Toggle: False
+Random Rotation Toggle: True
+Random Rotation X: False
+Random Rotation Y: True
+Random Rotation Z: False
+Random Scale Toggle: True
+Random Scale Min: 0.7
+Random Scale Max: 1.25
+Fixed Rotation Toggle: False
+Fixed Rotation X: 0
+Fixed Rotation Y: 0
+Fixed Rotation Z: 0
+Depth: 0
+
+Game Object: Assets/External Assets/Fantasy Forest Set/Prefabs/Flower-1-Yellow.prefab
+Layer: Default
+Toggle: False
+Slider: 1
+Lock Orientation Toggle: False
+Random Rotation Toggle: True
+Random Rotation X: False
+Random Rotation Y: True
+Random Rotation Z: False
+Random Scale Toggle: True
+Random Scale Min: 0.7
+Random Scale Max: 1.25
+Fixed Rotation Toggle: False
+Fixed Rotation X: 0
+Fixed Rotation Y: 0
+Fixed Rotation Z: 0
+Depth: 0
+
+Game Object: Assets/External Assets/Fantasy Forest Set/Prefabs/pineTree_1.prefab
+Layer: Default
+Toggle: False
+Slider: 1
+Lock Orientation Toggle: False
+Random Rotation Toggle: True
+Random Rotation X: False
+Random Rotation Y: True
+Random Rotation Z: False
+Random Scale Toggle: True
+Random Scale Min: 0.7
+Random Scale Max: 1.25
+Fixed Rotation Toggle: False
+Fixed Rotation X: 0
+Fixed Rotation Y: 0
+Fixed Rotation Z: 0
+Depth: 0
+
+Game Object: Assets/External Assets/Fantasy Forest Set/Prefabs/Grass-3.prefab
+Layer: Default
+Toggle: False
+Slider: 1
+Lock Orientation Toggle: False
+Random Rotation Toggle: False
+Random Rotation X: False
+Random Rotation Y: False
+Random Rotation Z: False
+Random Scale Toggle: False
+Random Scale Min: 0.1
+Random Scale Max: 1
+Fixed Rotation Toggle: False
+Fixed Rotation X: 0
+Fixed Rotation Y: 0
+Fixed Rotation Z: 0
+Depth: 0
+
+Game Object: Assets/External Assets/Fantasy Forest Set/Prefabs/Grass-2.prefab
+Layer: Default
+Toggle: False
+Slider: 1
+Lock Orientation Toggle: False
+Random Rotation Toggle: False
+Random Rotation X: False
+Random Rotation Y: False
+Random Rotation Z: False
+Random Scale Toggle: False
+Random Scale Min: 0.1
+Random Scale Max: 1
+Fixed Rotation Toggle: False
+Fixed Rotation X: 0
+Fixed Rotation Y: 0
+Fixed Rotation Z: 0
+Depth: 0
+
+Game Object: Assets/External Assets/Fantasy Forest Set/Prefabs/OakTree-1.prefab
+Layer: Default
+Toggle: False
+Slider: 1
+Lock Orientation Toggle: False
+Random Rotation Toggle: True
+Random Rotation X: False
+Random Rotation Y: False
+Random Rotation Z: False
+Random Scale Toggle: True
+Random Scale Min: 0.7
+Random Scale Max: 1.25
+Fixed Rotation Toggle: False
+Fixed Rotation X: 0
+Fixed Rotation Y: 0
+Fixed Rotation Z: 0
+Depth: 0
+
+Game Object: Assets/External Assets/Fantasy Forest Set/Prefabs/Rock-1.prefab
+Layer: Default
+Toggle: True
+Slider: 1
+Lock Orientation Toggle: False
+Random Rotation Toggle: True
+Random Rotation X: False
+Random Rotation Y: True
+Random Rotation Z: False
+Random Scale Toggle: True
+Random Scale Min: 0.7
+Random Scale Max: 1.25
+Fixed Rotation Toggle: False
+Fixed Rotation X: 0
+Fixed Rotation Y: 0
+Fixed Rotation Z: 0
+Depth: 0
+
+Game Object: Assets/External Assets/Fantasy Forest Set/Prefabs/Rock-4.prefab
+Layer: Default
+Toggle: True
+Slider: 1
+Lock Orientation Toggle: False
+Random Rotation Toggle: True
+Random Rotation X: False
+Random Rotation Y: True
+Random Rotation Z: False
+Random Scale Toggle: True
+Random Scale Min: 0.7
+Random Scale Max: 1.25
+Fixed Rotation Toggle: False
+Fixed Rotation X: 0
+Fixed Rotation Y: 0
+Fixed Rotation Z: 0
+Depth: 0
+
+Game Object: Assets/External Assets/Fantasy Forest Set/Prefabs/Rock-3.prefab
+Layer: Default
+Toggle: True
+Slider: 1
+Lock Orientation Toggle: False
+Random Rotation Toggle: True
+Random Rotation X: False
+Random Rotation Y: True
+Random Rotation Z: False
+Random Scale Toggle: True
+Random Scale Min: 0.7
+Random Scale Max: 1.25
+Fixed Rotation Toggle: False
+Fixed Rotation X: 0
+Fixed Rotation Y: 0
+Fixed Rotation Z: 0
+Depth: 0
+
+Game Object: Assets/External Assets/Fantasy Forest Set/Prefabs/Rock-2.prefab
+Layer: Default
+Toggle: True
+Slider: 1
+Lock Orientation Toggle: False
+Random Rotation Toggle: True
+Random Rotation X: False
+Random Rotation Y: True
+Random Rotation Z: False
+Random Scale Toggle: True
+Random Scale Min: 0.7
+Random Scale Max: 1.25
+Fixed Rotation Toggle: False
+Fixed Rotation X: 0
+Fixed Rotation Y: 0
+Fixed Rotation Z: 0
+Depth: 0
